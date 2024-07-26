@@ -1,15 +1,15 @@
 # MERN STACK APP
 ## Live URL
-https://jealous-ruby-sea-lion.cyclic.app/
+https://ecommerce-web-pearl.vercel.app/
 
 ## Overview
-Welcome to the documentation of my website that, I've developed using React, Express, MongoDB, Bootstrap, and hosted with Cyclic. This website consists of three main functionalities: User, Admin, and Guest, each catering to different user roles. This documentation will guide you through the key aspects of my website.
+Welcome to the documentation of my website that, I've developed using React, Express, MongoDB, Bootstrap, and hosted with Vercel. This website consists of three main functionalities: User, Admin, and Guest, each catering to different user roles. This documentation will guide you through the key aspects of my website.
 
 ## Technologies Used
 1.  **Frontend:** React, Bootstrap
 2. **Backend:** Express.js
 3. **Database:** MongoDB
-3. **Hosting:** Cyclic
+3. **Hosting:** Vercel
 
 
 ## Panels:
