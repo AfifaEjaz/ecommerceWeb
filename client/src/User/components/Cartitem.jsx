@@ -48,7 +48,9 @@ export default function Cartitem({ data }) {
                             <div className="d-flex justify-content-between align-items-center">
                                 <div className="card-title">
                                     <strong>{data.name}</strong>
-                                    <div>{data.description.substring(0, 44)}</div>
+                                    <div>
+                                        {data.description ? data.description.substring(0, 44) : 'No description available'}
+                                    </div>
                                 </div>
                                 <button className='btn btn-light align-self-start '
                                     onClick={() => deleteItem(data._id)}>< RxCross1 /></button>
